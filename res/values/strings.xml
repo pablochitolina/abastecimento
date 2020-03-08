@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Abastecimento</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="labelTeste">Testar</string>
+    <string name="labelEmpresa">Empresa:</string>
+    <string name="labelCondutor">Condutor:</string>
+    <string name="labelVeiculo">Veículo:</string>
+    <string name="labelCombustivel">Combustível:</string>
+    <string name="labelOdometro">Odometro</string>
+    <string name="labelQuantidade">Quantidade</string>
+    <string name="labelValor">Valor</string>
+    <string name="labelSalvar">Salvar</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_loanding">LoandingActivity</string>
+    <string name="title_activity_escolha">EscolhaActivity</string>
+    <string name="labelManual">Manual</string>
+    <string name="labelRFID">RFID</string>
+    <string name="title_activity_ler_rfid">LerRFIDActivity</string>
+
+</resources>
